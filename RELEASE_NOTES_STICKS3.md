@@ -1,4 +1,11 @@
-# Gradus Firmware: M5Stick S3 build
+# Gradus Firmware: сборка для M5Stick S3
+
+```text
+> repo: gradus-firmware
+> doc: RELEASE_NOTES
+> purpose: Первая успешная сборка под M5Stick S3
+```
+
 
 Первая успешная сборка `Bruce-m5stack-sticks3.bin` для `M5Stick S3`.
 

@@ -1,5 +1,12 @@
 # Gradus Firmware v0.2.0
 
+```text
+> repo: gradus-firmware
+> doc: RELEASE_NOTES
+> purpose: Содержимое релиза прошивок v0.2.0 для M5Stick-линейки
+```
+
+
 Единый релиз прошивок для линейки `M5Stick`.
 
 ## Что внутри
