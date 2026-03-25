@@ -1,10 +1,26 @@
-![Bruce Main Menu](./media/pictures/bruce_banner.jpg)
+<div align="center">
+  <img src="./media/pictures/bruce_banner.jpg" alt="gradus-firmware banner" width="100%" />
 
-# gradus-firmware
+  <h1>gradus-firmware</h1>
+  <p><strong>Кибер-прошивка для ESP32 и M5Stack.</strong> Форк `Bruce` с фикcами сборки, адаптацией под `Gradus` и сценариями для собственных релизов.</p>
 
-`gradus-firmware` — это форк прошивки `Bruce` с правками сборки, адаптацией под устройства `M5Stack` и дополнительными изменениями под задачи проекта `Gradus`.
+  <p>
+    <img src="https://img.shields.io/badge/ESP32-firmware-111827?style=for-the-badge&logo=espressif&logoColor=22C55E" alt="ESP32 firmware" />
+    <img src="https://img.shields.io/badge/M5Stack-Gradus-111827?style=for-the-badge&logoColor=22C55E" alt="M5Stack Gradus" />
+    <img src="https://img.shields.io/badge/Cardputer-supported-111827?style=for-the-badge&logoColor=22C55E" alt="Cardputer" />
+    <img src="https://img.shields.io/badge/fork-Bruce-22C55E?style=for-the-badge&labelColor=0B1220" alt="Fork Bruce" />
+  </p>
+</div>
 
-Репозиторий подходит для работы с `ESP32`, `Cardputer`, `M5Stick`, `M5Core`, `T-Deck`, `T-Embed` и другими совместимыми платформами.
+```text
+> branch: gradus-firmware
+> mission: build fixes + device adaptation + release workflow
+> vibe: offensive tooling meets practical embedded engineering
+```
+
+## обзор
+
+Этот форк нужен для задач `Gradus`: собрать стабильные бинарники, поддержать нужные устройства `M5Stack` и встроить прошивку в собственный инструмент прошивки.
 
 ## Что изменено в этом форке
 
